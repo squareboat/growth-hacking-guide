@@ -23,7 +23,7 @@ The trick is to pick a high level growth rate and try to achieve it. Growth need
 
 ## Introduction to Growth Hacking
 
-Your users go through a virtual funnel which can be summarized in a simple acronym: ARRR (Acquisition > Activation > Retention > Referral > Revenue)
+Your users go through a virtual funnel which can be summarized in a simple acronym: AARRR (Acquisition > Activation > Retention > Referral > Revenue)
 
 The entire "game" of growth hacking is about careful measurement and funnel optimization as your users progress in their journey.
 
